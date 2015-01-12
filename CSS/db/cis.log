@@ -1,0 +1,17 @@
+/*C3*/SET SCHEMA PUBLIC
+INSERT INTO CIS_PE_5 VALUES('X79wb ,Xa7sM,Xa85Y,X76Jt, X76Ju,asddsa','asddsadsaasd','X79wb ,Xa7sM,Xa85Y,X76Jt, X76Ju','Active')
+COMMIT
+DELETE FROM CIS_PE_5 WHERE PE_5_CD='X79wb ,Xa7sM,Xa85Y,X76Jt, X76Ju,asddsa'
+COMMIT
+INSERT INTO CIS_PE_5 VALUES('AA^AA1^1.1^1.1.1^1.1.1.1,aaaaaaaaaaaaaaaaaaaaa','aaaaaaaaaaaaaaaaaaaa','AA^AA1^1.1^1.1.1^1.1.1.1','Active')
+COMMIT
+DELETE FROM CIS_PE_5 WHERE PE_5_CD='AA^AA1^1.1^1.1.1^1.1.1.1,aaaaaaaaaaaaaaaaaaaaa'
+COMMIT
+INSERT INTO CIS_PE_5 VALUES('AA^AA1^1.2^1.2.3^1.2.3.12,ddddddddddddddd','ddddddddddddddddddddd','AA^AA1^1.2^1.2.3^1.2.3.12','Active')
+COMMIT
+DELETE FROM CIS_PE_5 WHERE PE_5_CD='AA^AA1^1.2^1.2.3^1.2.3.12,ddddddddddddddd'
+COMMIT
+INSERT INTO CIS_PE_4 VALUES('X79wb ,Xa7sZ,X76Ix ,Xa7sb,asddsadsaasd','wwwwwwwwwwwwww','X79wb ,Xa7sZ,X76Ix ,Xa7sb','Active')
+COMMIT
+DELETE FROM CIS_PE_4 WHERE PE_4_CD='X79wb ,Xa7sZ,X76Ix ,Xa7sb,asddsadsaasd'
+COMMIT
