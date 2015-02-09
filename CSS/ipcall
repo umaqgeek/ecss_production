@@ -1,5 +1,5 @@
-ip:10.73.37.134
-callsys:off
+ip:192.168.1.190
+callsys:on
 port:1098
 ipserver:ecss.utem.edu.my
 ------------------
